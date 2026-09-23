@@ -8,7 +8,6 @@ A modern React + TypeScript project for managing and displaying data in a clean,
 
 ---
 
-# 📖 About the Project
 
 ## 🚀 DevStack
 
