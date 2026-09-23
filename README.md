@@ -27,6 +27,7 @@ Dev Stack is a responsive React application for discovering and organizing devel
 * 🎨 CSS
 * 📄 JSON
 * ⚡ Vite
+* ⚡ React tostify
 
 ---
 
